@@ -41,7 +41,7 @@ const portfolios = [
     title: "Portfolio Website",
     src: portfolio,
     link: "",
-    repo: "",
+    repo: "https://github.com/Gauravsingh640/Portfolio",
   },
   {
     id: 6,

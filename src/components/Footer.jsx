@@ -1,13 +1,21 @@
 import React from "react";
 
-function Footer(){
-    return(
-        <div class="text-center p-6 bg-black footer">
-        <span class="text-white">&copy; 2026 Copyright - </span>
-        <a class="link-underline text-white font-bold" href="">Gaurav</a>
-      </div>
-    )
+function Footer() {
+  return (
+    <footer className="text-center p-6 bg-black footer">
+      <span className="text-white">
+        © 2026 Copyright -{" "}
+      </span>
+      <a
+        className="link-underline text-white font-bold"
+        href="https://github.com/Gauravsingh640"
+        target="_blank"
+        rel="noreferrer"
+      >
+        Gaurav Singh
+      </a>
+    </footer>
+  );
 }
 
-
-export default Footer
+export default Footer;
