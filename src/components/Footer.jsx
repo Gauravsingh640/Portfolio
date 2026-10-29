@@ -10,7 +10,7 @@ function Footer() {
         className="link-underline text-white font-bold"
         href="https://github.com/Gauravsingh640"
         target="_blank"
-        rel="noreferrer"
+        rel="noopener noreferrer"
       >
         Gaurav Singh
       </a>
