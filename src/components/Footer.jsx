@@ -8,7 +8,7 @@ function Footer() {
       </span>
       <a
         className="link-underline text-white font-bold"
-        href="https://github.com/Gauravsingh640"
+        href="https://portfolio-gamma-lake-gvafxxdv3h.vercel.app/"
         target="_blank"
         rel="noopener noreferrer"
       >
