@@ -59,13 +59,13 @@ A project focused on providing personalized workout recommendations using AI-bas
 Clone this repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone "https://github.com/Gauravsingh640/Portfolio"
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd <YOUR_PROJECT_FOLDER>
+cd react-portfolio-master
 ```
 
 Install dependencies:
