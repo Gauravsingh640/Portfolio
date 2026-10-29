@@ -40,7 +40,7 @@ const portfolios = [
     id: 5,
     title: "Portfolio Website",
     src: portfolio,
-    link: "",
+    link: "https://portfolio-gamma-lake-gvafxxdv3h.vercel.app/",
     repo: "https://github.com/Gauravsingh640/Portfolio",
   },
   {
